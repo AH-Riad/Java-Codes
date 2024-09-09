@@ -1,0 +1,54 @@
+/*
+
+                                 EXCEPTION
+
+
+AN EXCEPTION IS A RUN TIME ERROR
+
+AN EXCEPTION IS AN ABNORMAL CONDITION THAT ARISES IN A CODE SEQUENCE AT RUN TIME
+
+
+INT X = 10;
+INT Y = 0;
+INT RESULT  = X/Y;             // EXCEPTION OCCURS HERE (ARITHMETIC EXCEPTION)
+
+ 
+
+
+
+                                        TRY CATCH FINALLY BLOCK
+
+TRY {
+
+       // CODE YOU WANT TO MONITOR
+
+) CATCH (EXCEPTION TYPE 1 E1) {
+
+       // EXCEPTION HANDLER FOR EXCEPTION
+}
+
+) CATCH (EXCEPTION TYPE 1 E1) {
+
+       // EXCEPTION HANDLER FOR EXCEPTION
+}
+.............
+.............
+
+FINALLY{
+             
+       // BLOCK OF CODE TO BE EXECUTED AFTER TRY BLOCK
+       // FINALLY BLOCK ALWAYS EXECUTES EVEN IF EXCEPTION OCCURS
+}
+
+
+
+
+
+
+
+
+
+
+
+
+*/
