@@ -1,7 +1,7 @@
 /*
 
             OVERLOADING                                                          OVERRIDING
-1)PARAMETER MUST BE DIFFERENT                                1)PARAMETER MUST BE DIFFERENT
+1)PARAMETER MUST BE DIFFERENT                                1)PARAMETER MUST BE SAME
 2)IT OCCURS WITHIN TRE SAME CLASS                            2)IT OCCURS BETWEEN TWO CLASSES- 
                                                                 SUB CLASS AND SUPER CLASS
 3)INHERITANCE IS NOT INVOLVED                                3)INHERITANCE IS INVOLVED
